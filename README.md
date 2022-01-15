@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20YoonjaeBaek%20%20&height=200&fontSize=100)
 
 <!--
 **whyjyj/whyjyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Solved.ac
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={mc3218})](https://solved.ac/{mc3218})
+---
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mc3218)](https://solved.ac/mc3218)
