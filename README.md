@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
 
-### Solved.ac
----
+# Hi there 👋
+
+## 📄 My CV
+
+Here is my [CV](https://whyj-yj.notion.site/Yoonjae-Baek-be25bba6f6144f64a222d1e5c849ace0?pvs=4).
+
+## 🏆 Solved.ac
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mc3218)](https://solved.ac/mc3218)
