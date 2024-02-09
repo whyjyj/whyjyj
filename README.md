@@ -1,24 +1,8 @@
-<!--
-**whyjyj/whyjyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there 👋
-
-## 📄 My CV
-
-Here is my [CV](https://whyj-yj.notion.site/Yoonjae-Baek-be25bba6f6144f64a222d1e5c849ace0?pvs=4).
-
-## 🏆 Solved.ac
+## Hi there 👋
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mc3218)](https://solved.ac/mc3218)
+
+I'm an undergraduate student at Computer Education, Sungkyunkwan University. </br>
+If you are interested in my work, please refer to the links below.
+
+[[Website]](https://whyj-yj.notion.site/Yoonjae-Baek-be25bba6f6144f64a222d1e5c849ace0?pvs=4) [[Email]](mailto:mc3218@g.skku.edu)
