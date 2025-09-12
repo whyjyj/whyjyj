@@ -6,7 +6,7 @@ My research interests lie in computer vision and deep learning, with a special f
 
 Please feel free to connect with me or explore my work using the links below!
 
----
+<!-- --- -->
 
 <!-- ### 📚 Publications & Projects
 
